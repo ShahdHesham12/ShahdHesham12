@@ -6,8 +6,6 @@ Data Scientist
 
 I am a Data Science student at Alexandria University with a strong foundation in machine learning, data analysis, and cloud technologies. My interests lie in developing data-driven solutions that transform complex data into actionable insights. Through academic projects and internships, I have gained hands-on experience in building and deploying machine learning models, working with cloud services like AWS, and integrating AI with IoT systems. I am particularly passionate about applying analytics, automation, and AI to solve real-world challenges and continuously improving my skills.
 
-\--
-
 What I Do:
 
 \-Build and deploy Machine Learning and Deep Learning models for real-world use cases.
@@ -15,8 +13,6 @@ What I Do:
 \-Work with data pipelines, NLP, and predictive analytics using Python, Scikit-learn, and Streamlit.
 
 \-Design data-driven applications integrating AI with IoT devices and cloud automation (AWS Lambda, API Gateway, DynamoDB).
-
-\--
 
 skills:
 
